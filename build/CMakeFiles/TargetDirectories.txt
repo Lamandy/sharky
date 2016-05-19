@@ -1,0 +1,6 @@
+/home/sharky/ys_ws/build/CMakeFiles/clean_test_results.dir
+/home/sharky/ys_ws/build/CMakeFiles/doxygen.dir
+/home/sharky/ys_ws/build/gtest/CMakeFiles/gtest.dir
+/home/sharky/ys_ws/build/gtest/CMakeFiles/gtest_main.dir
+/home/sharky/ys_ws/build/CMakeFiles/run_tests.dir
+/home/sharky/ys_ws/build/CMakeFiles/tests.dir
